@@ -6,8 +6,8 @@ public class AdditionOfTwoNumber {
 		int firstNumber = 20;
 		int secondNumber = 30;
 		int result = firstNumber + secondNumber;
-		System.out.println("result : "+result);
-
+		System.out.println("result : " + result);
+		System.out.println("Hi");
 	}
 
 }
